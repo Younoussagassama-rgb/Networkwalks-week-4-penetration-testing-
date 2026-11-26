@@ -61,7 +61,6 @@ This repository documents **Week 4** of my NetworkWalks hands-on cybersecurity t
 
 ## 📂 Repository Structure
 ![](Screenshot_20261126_201543_LinkedIn.Jpg)
-.
 ├── README.md          # This file
 ├── screenshots/        # Evidence captured during the lab
 └── notes.md            # Personal lab notes and reflections
